@@ -1,0 +1,6 @@
+pipeline:
+  input_file: "data/sample_input.csv"
+  target_table: "target_table"
+
+logging:
+  level: "INFO"
